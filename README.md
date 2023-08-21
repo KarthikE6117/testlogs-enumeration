@@ -3,7 +3,7 @@
 # testlogs-enumeration
 This c console application enumerates the testlogs and prepares a csv report based  on the passed and failed hardware tests.
 
-# Algorithem
+# Algorithm
 STEP 1:  Enumerate TEST LOGS
 
 STEP 2: If the TEST LOGS directory is empty, end the program with a negative return. Else iterate and enumerate the contents of the timestamp directories 
